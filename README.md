@@ -50,9 +50,9 @@ whether they're on the go or sitting at a desktop.
         - ##### I want the site to be intuitive, consistent and easy to navigate. I aim to use seperate 'cards' to highlight the benefits of massage, the treatments on offer and details about me all in any easy to see layout. I aim to keep it minimilistic so that it's easy on the eye and not weighed down with too much detail and loose a potential clients interest.
 
     - #### Skeleton 
-        - ##### Wireframes - [View](https://....)
+        - ##### Wireframes - [View](https://....) Note basic drawings have been produced rather than on the Balsamiq website due to time constraints, this will be added should time allow. 
 
-        - ##### Mobile Wireframe - [View](https://...)
+        - ##### Mobile Wireframe - [View](https://...) 
 
     - #### Surface
         - ##### The colour scheme together with the imagery described was used to create an overall pleasant, relaxing, easy on the eye experience. 
@@ -93,6 +93,8 @@ whether they're on the go or sitting at a desktop.
 ---
 
 ## Version Control
+###
+
 ---
 
 ## Deployment
