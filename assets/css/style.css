@@ -7,9 +7,10 @@
 .massage-name {
     color:#9d4edd;}
 
-.nav-link{
-    color: #9d4edd;
-
+h1 {
+    font-family: 'Emilys+Candy', sans-serif;
+    font-weight: 900;
+    font-style: italic;
 }
 
 #home {
@@ -26,4 +27,15 @@
 
 #contact {
        color:#9d4edd;
+}
+
+#menu a:hover {
+    border-bottom: 0.1px solid #9d4edd;
+
+}
+
+/*-----------------------------MASSAGE VIDEO---------*/
+
+.massage-video {
+    margin: 0;
 }
