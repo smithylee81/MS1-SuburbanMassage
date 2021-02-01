@@ -48,6 +48,16 @@ h1 {
     width: 100vw;
 }
 
+.img-thumbnail {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 50%;
+}
+
+
 .display-4{
     padding-top: 6.25rem;
     font-family: 'Emilys+Candy';
@@ -57,8 +67,17 @@ h1 {
 }
 
 .lead {
-    padding-top: 100px;
+    padding-top: 5.625rem;
+    font-size: 25px;
     font-family: 'Emilys+Candy';
     font-style: italic;
     color: #3c096c;
+}
+
+
+
+/*---- TESTIMONIALS-----*/
+
+.client-feedback {
+    text-align: center;
 }
