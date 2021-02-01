@@ -2,12 +2,11 @@
 
 
 
-/*-----------------------------HEADER/NAV-BAR------------ */
+/*-----------------------------HEADER & NAV-BAR------------ */
 
 .container-fluid{
     position: absolute;
 }
-
 
 .massage-name {
     color:#9d4edd;}
@@ -39,19 +38,6 @@ h1 {
 
 }
 
-
-/*-----------------------------MASSAGE VIDEO/PIC
-
-
-.massage-pic {
-    background-size: cover;
-    background-position: center;
-    height: 50vh;
-    padding: 0;
-    border: 5px solid #9d4edd;
-}
----------*/
-
 /* -----------------------------BACKGROUND/OPENING PAGE-----------*/
 
 #opening-page{
@@ -63,9 +49,16 @@ h1 {
 }
 
 .display-4{
-    padding-top: 100px;
+    padding-top: 6.25rem;
     font-family: 'Emilys+Candy';
     font-style: italic;
     color: #3c096c;
 
+}
+
+.lead {
+    padding-top: 100px;
+    font-family: 'Emilys+Candy';
+    font-style: italic;
+    color: #3c096c;
 }
