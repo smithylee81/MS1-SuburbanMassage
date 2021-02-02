@@ -2,7 +2,7 @@
 
 
 
-/*-----------------------------HEADER & NAV-BAR------------ */
+/*--------------------------------------HEADERS & NAV-BAR------------ */
 
 .container-fluid{
     position: absolute;
@@ -15,6 +15,31 @@ h1 {
     font-family: 'Emilys+Candy', sans-serif;
     font-weight: 900;
     font-style: italic;
+}
+
+h2 {
+    font-family: 'Emilys+Candy', sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    color:#9d4edd;
+    
+}
+
+h3{
+    font-size: 200%;
+    margin-left: 50px;
+    margin-right: -50px;
+    margin-bottom: 1.875rem;
+    margin-top: 30px;
+    letter-spacing: 0.063rem;
+    color:#9d4edd;
+   
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+     font-style: italic;
 }
 
 #home {
@@ -38,6 +63,18 @@ h1 {
 
 }
 
+/*--------------------------------- PARAGRAPHS-----*/
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 20px;
+
+}
+
+
 /* -----------------------------BACKGROUND/OPENING PAGE-----------*/
 
 #opening-page{
@@ -48,15 +85,19 @@ h1 {
     width: 100vw;
 }
 
+/*------------------------------About Me Image-----------*/
+
 .img-thumbnail {
     width: 100px;
     height: 100px;
-    text-align: center;
+    align-content: center;
     padding-bottom: 5px;
     padding-top: 5px;
     border-radius: 50%;
+
 }
 
+/*-------------------------------INDULGE----------------*/
 
 .display-4{
     padding-top: 6.25rem;
@@ -76,8 +117,12 @@ h1 {
 
 
 
-/*---- TESTIMONIALS-----*/
 
-.client-feedback {
-    text-align: center;
+/*--------------------------------TESTIMONIALS-----*/
+
+
+.testimonial-page {
+    background-image: url(assets/images/testimonialpic.png);
+    background-size: cover;
+    background-attachment: fixed;
 }
