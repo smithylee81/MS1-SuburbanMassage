@@ -27,8 +27,8 @@ h2 {
 
 h3{
     font-size: 200%;
-    margin-left: 50px;
-    margin-right: -50px;
+    margin-left: 300px;;
+   
     margin-bottom: 1.875rem;
     margin-top: 30px;
     letter-spacing: 0.063rem;
@@ -36,6 +36,17 @@ h3{
    
     text-align: center;
 }
+
+h3:after {
+    display: block;
+    height: 2px; 
+    background-color: #9d4edd;
+    content: "";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
 
 h4{
     text-align: center;
@@ -74,6 +85,10 @@ p {
 
 }
 
+ul li {
+    align-content: center;
+
+}
 
 /* -----------------------------BACKGROUND/OPENING PAGE-----------*/
 
@@ -90,7 +105,7 @@ p {
 .img-thumbnail {
     width: 100px;
     height: 100px;
-    align-content: center;
+    text-align: center;
     padding-bottom: 5px;
     padding-top: 5px;
     border-radius: 50%;
@@ -121,8 +136,15 @@ p {
 /*--------------------------------TESTIMONIALS-----*/
 
 
-.testimonial-page {
-    background-image: url(assets/images/testimonialpic.png);
+.container-testimonials {
+    background-image: url("https://cdn.pixabay.com/photo/2018/09/10/09/32/wellness-3666624_960_720.jpg");
     background-size: cover;
     background-attachment: fixed;
+    min-width: 100%;
+    min-height:100%;
+}
+
+cite {
+    padding-top: 10px ;
+    align-content: center;
 }
