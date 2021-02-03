@@ -175,3 +175,12 @@ blockquote {
     font-style: oblique;
     padding-top: 1.875rem;
 }
+
+/*--------------------------------CONTACT ME----*/
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color:#9d4edd ;
+}
