@@ -11,13 +11,6 @@
 .massage-name {
     color:#9d4edd;}
 
-.display-4{
-    padding-top: 6.25rem;
-    font-family: 'Emilys+Candy';
-    font-style: italic;
-    color: #3c096c;
-
-}
 
 h1 {
     font-family: 'Emilys+Candy', sans-serif;
@@ -35,9 +28,9 @@ h2 {
 
 h3{
     font-size: 200%;
-    margin-left: 300px;;
+    margin-left: 18.75rem;
     margin-bottom: 1.875rem;
-    margin-top: 30px;
+    margin-top: 1.875rem;
     letter-spacing: 0.063rem;
     color:#9d4edd;
     text-align: center;
@@ -48,12 +41,12 @@ h3{
 
 h3:after {
     display: block;
-    height: 2px; 
+    height: 0.125rem; 
     background-color: #9d4edd;
     content: "";
-    width: 100px;
+    width: 6.25rem;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 1.25rem;
 }
 
 
@@ -83,18 +76,19 @@ h5{
 }
 
 #menu a:hover {
-    border-bottom: 0.1px solid #9d4edd;
+    border-bottom: 0.006rem solid #9d4edd;
 
 }
 
-/*--------------------------------- PARAGRAPHS-----*/
+/*--------------------------------- PARAGRAPHS/LISTS-----*/
+
 
 p {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     vertical-align: middle;
-    margin-top: 20px;
+    margin-top: 1.25rem;
 
 }
 
@@ -106,7 +100,7 @@ ul li {
 /* -----------------------------BACKGROUND/OPENING PAGE-----------*/
 
 #opening-page{
-    background-image: url(https://images.unsplash.com/photo-1602498456745-e9503b30470b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80);
+    background-image: url("https://images.pexels.com/photos/3764568/pexels-photo-3764568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -115,40 +109,36 @@ ul li {
 
 
 
+/*------------------------------SUBURBAN MASSAGE/IMAGES/ICONS-----------*/
+
+.display-4{
+    padding-top: 6.25rem;
+    font-family: 'Emilys+Candy';
+    font-style: italic;
+    color:#9d4edd;
+    margin-left: 28.125rem;
 }
 
-/*------------------------------About Me Image/IMAGES/ICONS-----------*/
-
-.img-thumbnail {
-    width: 100px;
-    height: 100px;
-    text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
-    border-radius: 50%;
-
-}
-
-.card-group img{
-    
-}
 
 .visits i {
     font-size: 1.875rem;
 }
 
 
-
 .lead {
     padding-top: 5.625rem;
-    font-size: 25px;
+    font-size: 1.563rem;
     font-family: 'Emilys+Candy';
     font-style: italic;
     color: #7b0e8a;
 }
 
+/*--------------------------------ABOUT----*/
 
 
+.card-text{
+    text-align: center;
+}
 
 /*--------------------------------TESTIMONIALS-----*/
 
@@ -179,8 +169,8 @@ blockquote {
 /*--------------------------------CONTACT ME----*/
 
 button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
+    margin-top: 0.938rem;
+    margin-bottom: 1.25rem;
     color: #fafafa;
     background-color:#9d4edd ;
 }
