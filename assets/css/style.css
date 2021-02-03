@@ -144,7 +144,7 @@ ul li {
     font-size: 25px;
     font-family: 'Emilys+Candy';
     font-style: italic;
-    color: #3c096c;
+    color: #7b0e8a;
 }
 
 
@@ -157,15 +157,21 @@ ul li {
     background-image: url("https://cdn.pixabay.com/photo/2018/09/10/09/32/wellness-3666624_960_720.jpg");
     background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
-    width: 200vw;
+    height: 100%;
+    width: 100%;
+    
 }
 
 cite {
-    padding-top: 10px ;
+    padding-top: 20px ;
     align-content: center;
 }
 
 blockquote {
-    color: #c77dff ;
+    color: #fa88f0e0;
+    font-family:'Emilys+Candy', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-style: oblique;
+    padding-top: 1.875rem;
 }
