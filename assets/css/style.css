@@ -11,6 +11,14 @@
 .massage-name {
     color:#9d4edd;}
 
+.display-4{
+    padding-top: 6.25rem;
+    font-family: 'Emilys+Candy';
+    font-style: italic;
+    color: #3c096c;
+
+}
+
 h1 {
     font-family: 'Emilys+Candy', sans-serif;
     font-weight: 900;
@@ -28,13 +36,14 @@ h2 {
 h3{
     font-size: 200%;
     margin-left: 300px;;
-   
     margin-bottom: 1.875rem;
     margin-top: 30px;
     letter-spacing: 0.063rem;
     color:#9d4edd;
-   
     text-align: center;
+    font-family: 'Emilys+Candy', sans-serif;
+    font-style: italic;
+    font-weight: 800;
 }
 
 h3:after {
@@ -51,6 +60,10 @@ h3:after {
 h4{
     text-align: center;
      font-style: italic;
+}
+
+h5{
+    text-align: center;
 }
 
 #home {
@@ -100,7 +113,11 @@ ul li {
     width: 100vw;
 }
 
-/*------------------------------About Me Image-----------*/
+
+
+}
+
+/*------------------------------About Me Image/IMAGES/ICONS-----------*/
 
 .img-thumbnail {
     width: 100px;
@@ -112,15 +129,15 @@ ul li {
 
 }
 
-/*-------------------------------INDULGE----------------*/
-
-.display-4{
-    padding-top: 6.25rem;
-    font-family: 'Emilys+Candy';
-    font-style: italic;
-    color: #3c096c;
-
+.card-group img{
+    
 }
+
+.visits i {
+    font-size: 1.875rem;
+}
+
+
 
 .lead {
     padding-top: 5.625rem;
@@ -140,11 +157,15 @@ ul li {
     background-image: url("https://cdn.pixabay.com/photo/2018/09/10/09/32/wellness-3666624_960_720.jpg");
     background-size: cover;
     background-attachment: fixed;
-    min-width: 100%;
-    min-height:100%;
+    height: 100vh;
+    width: 200vw;
 }
 
 cite {
     padding-top: 10px ;
     align-content: center;
+}
+
+blockquote {
+    color: #c77dff ;
 }
