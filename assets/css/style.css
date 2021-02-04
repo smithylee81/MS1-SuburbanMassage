@@ -182,3 +182,18 @@ button[type="submit"] {
     color: #fafafa;
     background-color:#9d4edd ;
 }
+
+/*--------------------------------FOOTER---*/
+
+.footer {
+  height:150px ;
+
+}
+
+.social-links i {
+    color: #9d4edd;
+}
+
+.social-links li{
+    display: inline;
+}
