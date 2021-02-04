@@ -52,11 +52,14 @@ h3:after {
 
 h4{
     text-align: center;
-     font-style: italic;
+    font-style: italic;
 }
 
 h5{
     text-align: center;
+    color: #5a189a;
+    font-family: 'Emilys+Candy', sans-serif;
+    font-weight: 400;
 }
 
 #home {
@@ -119,9 +122,14 @@ ul li {
     margin-left: 28.125rem;
 }
 
+.visits{
+    text-align: center center;
+
+}
 
 .visits i {
-    font-size: 1.875rem;
+    font-size: 1.563rem;
+    color:#9d4edd;
 }
 
 
