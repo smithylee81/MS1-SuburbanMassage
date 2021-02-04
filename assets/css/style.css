@@ -1,31 +1,22 @@
-
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&display=swap');
 /*--------------------------------------HEADERS & NAV-BAR------------ */
-
 .container-fluid{
     position: absolute;
 }
-
 .massage-name {
     color:#9d4edd;}
-
-
 h1 {
-    font-family: 'Emilys+Candy', sans-serif;
+    font-family: 'Emilys+Candy', serif;
     font-weight: 900;
     font-style: italic;
 }
-
 h2 {
-    font-family: 'Emilys+Candy', sans-serif;
+    font-family: 'Emilys+Candy', serif;
     font-weight: 900;
     font-style: italic;
     color:#9d4edd;
     
 }
-
 h3{
     font-size: 200%;
     margin-left: 18.75rem;
@@ -34,123 +25,90 @@ h3{
     letter-spacing: 0.063rem;
     color:#9d4edd;
     text-align: center;
-    font-family: 'Emilys+Candy', sans-serif;
+    font-family: 'Emilys+Candy', serif;
     font-style: italic;
     font-weight: 800;
 }
-
 h3:after {
     display: block;
     height: 0.125rem; 
     background-color: #9d4edd;
     content: "";
     width: 6.25rem;
-    margin: 0 auto;
-    margin-top: 1.25rem;
+    margin: 1.25rem auto 0;
 }
-
-
 h4{
     text-align: center;
     font-style: italic;
 }
-
 h5{
     text-align: center;
     color: #5a189a;
-    font-family: 'Emilys+Candy', sans-serif;
+    font-family: 'Emilys+Candy', serif;
     font-weight: 400;
 }
-
 #home {
        color: #9d4edd;
 }
-
 #about {
        color:#9d4edd;
 }
-
 #treatments {
        color:#9d4edd;
 }
-
 #contact {
        color:#9d4edd;
 }
-
 #menu a:hover {
     border-bottom: 0.006rem solid #9d4edd;
-
 }
-
 /*--------------------------------- PARAGRAPHS/LISTS-----*/
-
-
 p {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     vertical-align: middle;
     margin-top: 1.25rem;
-
 }
-
 ul li {
     align-content: center;
-
 }
-
 /* -----------------------------BACKGROUND/OPENING PAGE-----------*/
-
 #opening-page{
     background-image: url("https://images.pexels.com/photos/3764568/pexels-photo-3764568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
     background-size: cover;
-    background-attachment: fixed;
-    height: 100vh;
-    width: 100vw;
+    height: auto;
+    width: 100%;
 }
-
-
-
 /*------------------------------SUBURBAN MASSAGE/IMAGES/ICONS-----------*/
-
 .display-4{
     padding-top: 6.25rem;
-    font-family: 'Emilys+Candy';
+    font-family: 'Emilys+Candy', serif;
     font-style: italic;
     color:#9d4edd;
-    margin-left: 28.125rem;
 }
-
 .visits{
-    text-align: center center;
-
+    text-align: center;
 }
-
 .visits i {
     font-size: 1.563rem;
     color:#9d4edd;
 }
-
-
 .lead {
     padding-top: 5.625rem;
     font-size: 1.563rem;
-    font-family: 'Emilys+Candy';
+    font-family: 'Emilys+Candy', serif;
     font-style: italic;
     color: #7b0e8a;
 }
-
+.boxed {
+    border: 1px solid rgba(0,0,0,.125);
+}
 /*--------------------------------ABOUT----*/
-
-
 .card-text{
     text-align: center;
 }
-
 /*--------------------------------TESTIMONIALS-----*/
-
-
 .container-testimonials {
     background-image: url("https://cdn.pixabay.com/photo/2018/09/10/09/32/wellness-3666624_960_720.jpg");
     background-size: cover;
@@ -159,50 +117,41 @@ ul li {
     width: 100%;
     
 }
-
 cite {
-    padding-top: 20px ;
+    padding-top: 2rem;
     align-content: center;
 }
-
 blockquote {
-    color: #fa88f0e0;
+    color: #2d2d2d;
     font-family:'Emilys+Candy', sans-serif;
     font-weight: 700;
     text-align: center;
     font-style: oblique;
-    padding-top: 1.875rem;
+    background-color: rgba(200,200,200,0.7);
+    padding: 1.5rem;
 }
-
 /*--------------------------------CONTACT ME----*/
-
 button[type="submit"] {
     margin-top: 0.938rem;
     margin-bottom: 1.25rem;
     color: #fafafa;
     background-color:#9d4edd ;
 }
-
 /*--------------------------------FOOTER---*/
-
 .footer {
-    margin-top: 25rem ;
+    margin-top: 2rem ;
     position: relative;
     background-color:#4e4e4e;
-    
+    padding: .5rem;
 }
-
 .social-links i {
     color:#fa88f0e0;
     font-size: 1.563rem;
     font-weight: 300;
-
+    padding: 1rem 0;
 }
-
 .social-links li{
     display: inline;
-    margin: 1%;
-    margin-top: 0.125rem;
+    margin: 0.125rem 7% 1%;
     padding: 5%;
-    
 }
