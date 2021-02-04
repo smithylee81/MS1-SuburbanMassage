@@ -186,14 +186,23 @@ button[type="submit"] {
 /*--------------------------------FOOTER---*/
 
 .footer {
-  height:150px ;
-
+    margin-top: 25rem ;
+    position: relative;
+    background-color:#4e4e4e;
+    
 }
 
 .social-links i {
-    color: #9d4edd;
+    color:#fa88f0e0;
+    font-size: 1.563rem;
+    font-weight: 300;
+
 }
 
 .social-links li{
     display: inline;
+    margin: 1%;
+    margin-top: 0.125rem;
+    padding: 5%;
+    
 }
