@@ -111,7 +111,8 @@ whether they're on the go or sitting at a desktop.
 ---
 
 ## Version Control
-###
+
+- ### Github and Gitpod used throughout for project using git commands to push to github repository.  
 
 ---
 
