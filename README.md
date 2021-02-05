@@ -1,12 +1,11 @@
 <h1 align="center">Suburban Massage Website</h1>
 
-[View the live project here.](http://....)  **website address to complete**
+[View the live project here.](https://smithylee81.github.io/MS1-SuburbanMassage/)
 
 >A massage therapy website for customers to visit, explore their massage options and make contact to book their preferred 
 treatment. The website is designed to be responsive and accessible on a wide range of devices, making it easy for everyone to access 
 whether they're on the go or sitting at a desktop.
 
-**LOGO/IMAGE?**
 
 ## User Experience (UX)
 ---
@@ -71,19 +70,23 @@ whether they're on the go or sitting at a desktop.
 ## Frameworks, Libraries & Programs Used / Resources
 
 1. [Bootstrap 4.5:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-    - Bootstrap will be used to assist me with styling and responsiveness.
+    - Bootstrap was be used to assist me with styling and responsiveness.
 2. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome will used to add icons for aesthetic and UX purposes.
+    - Font Awesome was used to add icons for aesthetic and UX purposes.
 3. [Git:](https://git-scm.com/)
-    - Git will be used for version control utilising the 'Gitpod Terminal' to 'Commit' and 'Push' to GitHub.   
+    - Git was used for version control utilising the 'Gitpod Terminal' to 'Commit' and 'Push' to GitHub.   
 4. [GitPod:](https://gitpod.io/workspaces/)
-    - GitPod will be used as the main workspace for writing the code.
+    - GitPod was be used as the main workspace for writing the code.
 5. [GitHub:](https://github.com/)
-    - GitHub will be used to store the code after being 'Pushed' from Gitpod.
-6. [Balsamiq:](https://balsamiq.com/wireframes/)
-    - Balsamiq will be used to create the wireframes within the design process.
- 7. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Imbue' and 'Exo 2' font styles into the sttyle.css file which is used on all pages throughout the site.   
+    - GitHub was be used to store the code after being 'Pushed' from Gitpod.
+6. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the font styles into the sttyle.css file which is used on all pages throughout the site.  
+7. [Unsplash:](https://unsplash.com/) 
+    - Unsplash was used for the man having a massage image. 
+8. [Pixabay:](https://pixabay.com/) 
+    - Pixabay was used for the testimonials image and suburban massage image on home page. 
+9. [Pexels:](https://www.pexels.com/) 
+    - Pexels was used for the opening page image and map image. 
 ---
 
 ## Testing
@@ -99,12 +102,33 @@ whether they're on the go or sitting at a desktop.
 
 ## Deployment
 ### GitHub Pages
- - Describe the steps to deploy the project.
+ - The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [https://smithylee81.github.io/MS1-SuburbanMassage/](https://github.com) in the "GitHub Pages" section.
+
 ---
 ## Credits
 
+1. [Unsplash:](https://unsplash.com/) 
+     - Unsplash was used for the man having a massage image. 
+2. [Pixabay:](https://pixabay.com/) 
+    - Pixabay was used for the testimonials image and suburban massage image on home page. 
+3. [Pexels:](https://www.pexels.com/) 
+    - Pexels was used for the opening page image and map image. 
+4. [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+    - Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, Containers and Cards.
+
 ---
 ## Acknowledgements
-- ### Mentor (ongoing)
-- ### Code Institute Tutor Support (potentially/most likely!)
+- ### My Mentor for continious helpful feedback and guidance. 
+- ### Code Institute Tutor Support for their advice and guidance.
+- ### The slack community for peer support, encouragement and tutorial you tube videos which were very helpful from Jim Lynx "MS1 Planning Session" and "Workflow with Git, Gitpod and Github": 
+
+- [YouTube Video MS1 Planning](https://youtu.be/sH0m9N875SU)
+- [YouTube Video Workflow with Git, Gitpod and Github](https://youtu.be/6B0bHDDz1EM)
 ---
