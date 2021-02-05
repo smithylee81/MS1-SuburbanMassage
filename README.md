@@ -6,6 +6,8 @@
 treatment. The website is designed to be responsive and accessible on a wide range of devices, making it easy for everyone to access 
 whether they're on the go or sitting at a desktop.
 
+<h2 align="center"><img src="https://res.cloudinary.com/dodawjlab/image/upload/v1612553268/amiresponsivepic_yxik0s.png"></h2>
+
 
 ## User Experience (UX)
 ---
@@ -16,7 +18,7 @@ whether they're on the go or sitting at a desktop.
         1. As a First Time Visitor, I want to easily understand the the purpose of the site, what treatments are available and learn more about the masssage therapist.
         2. As a First Time Visitor, I want to see positive feedback from previous clients and access social media information to build my confidence in the therapist to help make a decision on whether I choose this particular service or not.
         3. As a First Time Visitor, I want to clearly see what the costs of treatments are, which is also a determinatng factor in choosing any service.
-        4. As a First Time Visitor, I also want to to be able to make effortless contact with the therapist should I choose to proceed, whether this is by calling directly, emailing or submitting an online enquiry.
+        4. As a First Time Visitor, I also want to to be able to make effortless contact with the therapist should I choose to proceed, whether this is submitting an online enquiry or contacting via facebook page.
 
     - #### Returning Visitor Goals
         1. As a Returning Visitor, I want to be able to see if any new treatments are available and any special offers.  
@@ -90,9 +92,22 @@ whether they're on the go or sitting at a desktop.
 ---
 
 ## Testing
+
+- ### The W3C CSS Validator Service and HTML checker was used to validate the CSS page of the project to ensure there were no errors. 
+
+-   [W3C Validator](https://validator.w3.org/nu/#textarea) - [Results](https://res.cloudinary.com/dodawjlab/image/upload/v1612554589/Screenshot_2021-02-05_at_18.08.20_txyjyp.png)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) - [Results](https://res.cloudinary.com/dodawjlab/image/upload/v1612554430/Screenshot_2021-02-05_at_18.15.29_p4zrle.png)
+- ### The Website was tested on Google Chrome, Firefox and Safari browsers.
+- ### The website was viewed on a variety of devices such as Desktop, Laptop, various iPhones and iPads.
+- ### Testing was done to ensure that the page links worked correctly.
+- ### Friends and family members were also asked to review the site and documentation to point out any bugs and/or user experience issues.
+
 ---
 
 ## Project Barriers & Solutions
+
+- ### Difficulty with incorporating a massage mp4 video into the project, eventually used an image as was unable to solve. 
+- ### Diffciulty with contact form as wanted to incorporate radio buttons to allow the user to select the type of massage they were interested in; eventually due to diffciulty with placement of this I opted for a standard text area on the form.
 ---
 
 ## Version Control
@@ -127,8 +142,11 @@ whether they're on the go or sitting at a desktop.
 ## Acknowledgements
 - ### My Mentor for continious helpful feedback and guidance. 
 - ### Code Institute Tutor Support for their advice and guidance.
-- ### The slack community for peer support, encouragement and tutorial you tube videos which were very helpful from Jim Lynx "MS1 Planning Session" and "Workflow with Git, Gitpod and Github": 
+- ### The slack community for peer support, encouragement and tutorial you tube videos which were very helpful from Jim Lynx at CI "MS1 Planning Session" and "Workflow with Git, Gitpod and Github": 
 
 - [YouTube Video MS1 Planning](https://youtu.be/sH0m9N875SU)
 - [YouTube Video Workflow with Git, Gitpod and Github](https://youtu.be/6B0bHDDz1EM)
+
+- ### Also to Anna Greaves at CI for quick reference guides on the responsive grid: 
+- [Bootstrap-grid-demo](https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html)
 ---
