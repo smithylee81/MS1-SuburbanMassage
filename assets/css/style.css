@@ -155,3 +155,9 @@ button[type="submit"] {
     margin: 0.125rem 7% 1%;
     padding: 5%;
 }
+
+@media screen and (max-width:320px) {
+    .social-links i{
+    width: 100%;
+    }
+}
