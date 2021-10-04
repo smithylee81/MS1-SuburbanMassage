@@ -126,7 +126,7 @@ whether they're on the go or sitting at a desktop.
     - #### Home Page/Navigation Bar: All page links were tested to ensure they take the user to the desired area on the page, the dropdown menu was also tested on smaller devices to ensure the user still had these options on their mobile/smaller device. 
 
         1. Page links to the different areas on the page:
-    - #### Home Page Dropdown Menu- [Results](/workspace/MS1-SuburbanMassage/assets/images/Home Page Hover - Dropdown.png)
+    - #### ! [Home Page Dropdown Menu Test] [Results](assets/images/Home Page Hover - Dropdown.png)
     - #### Treatments Section: - [Results] ()
     - #### Contact Us Section: Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears  
     - #### Social Media Links: Facebook - [Results] () ; Instagram - [Results] (); Twitter - [Results] ()
