@@ -104,23 +104,35 @@ whether they're on the go or sitting at a desktop.
 
 - ### First Time Visitor Goals
 
-    - #### As a first time visitor, I want to easily understand the main purpose of the site and learn more about the massage therapist and what treatments are available.
+    - #### As a first time visitor, I want to easily understand the main purpose of the site and learn more about the massage therapist, what treatments are available, testimonials to assess customer feedback, check out any social media accounts for other customer comments and know how to contact the therapist should I wish to pursue a massage.
         1. Upon entering the site, users are greated with an easily readable and clean title and navigation bar to allow access to the page of their choice. Below this there is an image of someone receiving a massage so the purpose of the site is clear.
         2. The user has two options, hover over and click the page links to each section or scroll down, both of which will lead them to the same areas.
-        3. 
-        4. 
+        3. As a first time visitor, the user can select the Testimonials option and read feedback from customers/clients. 
+        4. On the Contact Us page the user can complete the enquiry form and subit this using the clearly identifed 'Send my Enquiry' button, the user receives a confirmation via a new page stating 'Thanks!' with a link to return to the original site. 
+        5. At the bottom of the page, the footer, the user has options to select Facebook, Instagram and Twitter to find out more about the massage service and these open in a new tab for ease of use and navigating in their browser.
 
+- ### Returning Visitor Goals
+    - #### As a returning visitor, 
+        1. 
+
+
+- ### Frequent User Goals
+    - #### As a frequent visitor, 
+        1. 
 
 ## Further Testing 
 
 - ### Manual Testing of each section
-    - #### Home Page/Navigation Bar: 
-    - #### Treatments Section:
-    - #### Social Media Links: 
+    - #### Home Page/Navigation Bar: All page links were tested to ensure they take the user to the desired area on the page, the dropdown menu was also tested on smaller devices to ensure the user still had these options on their mobile/smaller device. 
+
+        1. Page links to the different areas on the page:
+    - #### Home Page Dropdown Menu- [Results](/workspace/MS1-SuburbanMassage/assets/images/Home Page Hover - Dropdown.png)
+    - #### Treatments Section: - [Results] ()
     - #### Contact Us Section: Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears  
+    - #### Social Media Links: Facebook - [Results] () ; Instagram - [Results] (); Twitter - [Results] ()
 
 - ### Testing Site Responsiveness
-    - ####
+    - #### 
 
 - ### Known Bugs
     - #### On larger desktop screens the footer icons appear slightly of center to the left 
