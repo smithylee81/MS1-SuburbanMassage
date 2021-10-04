@@ -100,6 +100,28 @@ whether they're on the go or sitting at a desktop.
 - ### Testing was done to ensure that the page links worked correctly.
 - ### Friends and family members were also asked to review the site and documentation to point out any bugs and/or user experience issues.
 
+## Testing User Stories from User Experience (UX) Section
+
+- ### First Time Visitor Goals
+
+    - #### As a first time visitor, I want to easily understand the main purpose of the site and learn more about the massage therapist and what treatments are available.
+        1. Upon entering the site, users are greated with an easily readable and clean title and navigation bar to allow access to the page of their choice. Below this there is an image of someone receiving a massage so the purpose of the site is clear.
+        2. The user has two options, hover over and click the page links to each section or scroll down, both of which will lead them to the same areas.
+        3. 
+        4. 
+
+
+## Further Testing 
+
+- ### Manual Testing of each section
+    - #### 
+
+- ### Testing Site Responsiveness
+    - ####
+
+- ### Known Bugs
+    - ####     
+
 ---
 
 ## Project Barriers & Solutions
@@ -124,6 +146,17 @@ whether they're on the go or sitting at a desktop.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [https://smithylee81.github.io/MS1-SuburbanMassage/](https://github.com) in the "GitHub Pages" section.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the GitHub Repository
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
+
+
 
 ---
 ## Credits
