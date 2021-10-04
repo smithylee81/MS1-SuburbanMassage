@@ -116,14 +116,15 @@ whether they're on the go or sitting at a desktop.
 - ### Manual Testing of each section
     - #### Home Page/Navigation Bar: 
     - #### Treatments Section:
-    - #### Contact Us Section:
     - #### Social Media Links: 
+    - #### Contact Us Section: Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears  
 
 - ### Testing Site Responsiveness
     - ####
 
 - ### Known Bugs
-    - #### On larger desktop screens the footer icons appear slightly of center to the left     
+    - #### On larger desktop screens the footer icons appear slightly of center to the left 
+    - #### After completing the fields in the Contact Us section and clicking the 'Send my Enquiry' button the page changes to a differeng page with an error message (screen shot taken)   
 
 ---
 
