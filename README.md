@@ -114,13 +114,16 @@ whether they're on the go or sitting at a desktop.
 ## Further Testing 
 
 - ### Manual Testing of each section
-    - #### 
+    - #### Home Page/Navigation Bar: 
+    - #### Treatments Section:
+    - #### Contact Us Section:
+    - #### Social Media Links: 
 
 - ### Testing Site Responsiveness
     - ####
 
 - ### Known Bugs
-    - ####     
+    - #### On larger desktop screens the footer icons appear slightly of center to the left     
 
 ---
 
