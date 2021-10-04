@@ -111,6 +111,10 @@ ul li {
 
 #treatment-details{
     background-color: rgba(233, 230, 230, 0.7);
+    border-style: solid;
+    border-bottom-width: 3px;
+    padding: 0;
+    margin: 1%;
 }
 
 /*--------------------------------ABOUT----*/
@@ -168,5 +172,7 @@ button[type="submit"] {
 @media screen and (max-width:320px) {
     .social-links i{
     width: 100%;
+    vertical-align: center;
     }
 }
+
