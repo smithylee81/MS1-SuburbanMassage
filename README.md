@@ -15,10 +15,10 @@ whether they're on the go or sitting at a desktop.
 - ### User Stories
 
     - #### First Time Visitor Goals
-        1. As a First Time Visitor, I want to easily understand the the purpose of the site, what treatments are available and learn more about the masssage therapist.
+        1. As a First Time Visitor, I want to easily understand the purpose of the site, what treatments are available and learn more about the massage therapist.
         2. As a First Time Visitor, I want to see positive feedback from previous clients and access social media information to build my confidence in the therapist to help make a decision on whether I choose this particular service or not.
-        3. As a First Time Visitor, I want to clearly see what the costs of treatments are, which is also a determinatng factor in choosing any service.
-        4. As a First Time Visitor, I also want to to be able to make effortless contact with the therapist should I choose to proceed, whether this is submitting an online enquiry or contacting via facebook page.
+        3. As a First Time Visitor, I want to clearly see what the costs of treatments are, which is also a determining factor in choosing any service.
+        4. As a First Time Visitor, I also want to to be able to make effortless contact with the therapist should I choose to proceed, whether this is submitting an online enquiry or contacting via Facebook, Instagram or Twitter.
 
     - #### Returning Visitor Goals
         1. As a Returning Visitor, I want to be able to see if any new treatments are available and any special offers.  
@@ -35,20 +35,20 @@ whether they're on the go or sitting at a desktop.
     - ##### A blend of natural earthy 'nurturing' colouring in conjunction with other nature orientated colours of purple/lilac blends to set a peaceful and tranquil scene for the user. 
 
   - #### Typography
-    - ##### A bold but soft 'comforting feel' font was used to provide the user with a gentle experience in line with the overall purpose of the site in provding a relaxing and calming service. 
+    - ##### A bold but soft 'comforting feel' font was used to provide the user with a gentle experience in line with the overall purpose of the site in providing a relaxing and calming service. 
 
   - #### Imagery
-    - ##### To coincide with the colour scheme and overall 'feel' of the site a relaxing beach sunrise image with purple/lilac tones in the background is used, for that grounding and relaxation feel. A short video take of a massage to also help ensure there is no doubiety of the purpose of the site.
+    - ##### To coincide with the colour scheme and overall 'feel' of the site a relaxing image of someone having a massage is used for the main picture on the site with purple/lilac tones for that grounding and relaxation feel.
 
 - ### UX Design Planes
-    - #### Stategy
-        - ##### My aim of the design is to make this a simple, stress free, ease of use website for individuals wishing to book for a massage treament.
+    - #### Strategy
+        - ##### My aim of the design is to make this a simple, stress free, ease of use website for individuals wishing to book for a massage treatment.
 
     - #### Scope
-        - ##### For potential clients I want to provide them with a brief synopsis of my who I am, my background, qualifications and experience. Providing an option for contact also should they wish to ask more about the treatments on offer.
+        - ##### For potential clients I want to provide them with a brief synopsis of my who I am, my background, qualifications, and experience. Providing an option for contact also should they wish to ask more about the treatments on offer.
 
     - #### Structure 
-        - ##### I want the site to be intuitive, consistent and easy to navigate. I aim to use seperate 'cards' to highlight the benefits of massage, the treatments on offer and details about me all in any easy to see layout. I aim to keep it minimilistic so that it's easy on the eye and not weighed down with too much detail and loose a potential clients interest.
+        - ##### I want the site to be intuitive, consistent, and easy to navigate. I aim to use separate 'cards' to highlight the benefits of massage, the treatments on offer and details about me all in any easy to see layout. I aim to keep it minimalistic so that it's easy on the eye and not weighed down with too much detail and loose a potential client’s interest.
 
     - #### Skeleton 
         - ##### Wireframes - [View](https://github.com/smithylee81/MS1-SuburbanMassage/commit/c81d4eb5b4067c19c9ff527003819b947fb2f464) Note basic drawings have been produced rather than on the Balsamiq website due to time constraints, this will be added should time allow. 
@@ -106,14 +106,16 @@ whether they're on the go or sitting at a desktop.
 
     - #### As a first time visitor, I want to easily understand the main purpose of the site and learn more about the massage therapist, what treatments are available, testimonials to assess customer feedback, check out any social media accounts for other customer comments and know how to contact the therapist should I wish to pursue a massage.
         1. Upon entering the site, users are greated with an easily readable and clean title and navigation bar to allow access to the page of their choice. Below this there is an image of someone receiving a massage so the purpose of the site is clear.
-        2. The user has two options, hover over and click the page links to each section or scroll down, both of which will lead them to the same areas.
+        2. The user has two options, hover over and click the page links to each section or scroll down, both of which will lead them to the same areas. The hover effect works well assisting the user in seeing which section they are selecting.
         3. As a first time visitor, the user can select the Testimonials option and read feedback from customers/clients. 
         4. On the Contact Us page the user can complete the enquiry form and subit this using the clearly identifed 'Send my Enquiry' button, the user receives a confirmation via a new page stating 'Thanks!' with a link to return to the original site. 
         5. At the bottom of the page, the footer, the user has options to select Facebook, Instagram and Twitter to find out more about the massage service and these open in a new tab for ease of use and navigating in their browser.
 
 - ### Returning Visitor Goals
-    - #### As a returning visitor, 
-        1. 
+    
+    - #### As a returning visitor, I want to check if there are any new treatments available, see if there are any special offers and be able to send an enquiry with confidence.
+        1. Upon re-entering the site the user has familiarity given the sites consistency and it's ease of use helps them navigate to the desired sections
+        2. The user can 
 
 
 - ### Frequent User Goals
@@ -127,7 +129,7 @@ whether they're on the go or sitting at a desktop.
 
         1. Testing the navigation bar to ensure this takes the user to the different areas on the page:
     
-    ![Home Page Dropdown Menu Test](/workspace/MS1-SuburbanMassage/assets/images/Home Page Hover - Dropdown.png)
+    - #### Home Page/Dropdown Menu: ![Home Page Dropdown Menu Test](/workspace/MS1-SuburbanMassage/assets/images/Home Page Hover - Dropdown.png)
     - #### Treatments Section: - [Results] ()
     - #### Contact Us Section: Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears  
     - #### Social Media Links: Facebook - [Results] () ; Instagram - [Results] (); Twitter - [Results] ()
@@ -188,14 +190,14 @@ whether they're on the go or sitting at a desktop.
 
 ---
 ## Acknowledgements
-- ### My Mentor for continious helpful feedback and guidance. 
+- ### My Mentor for continuous helpful feedback and guidance. 
 - ### Code Institute Tutor Support for their advice and guidance.
-- ### The slack community for peer support, encouragement and tutorial you tube videos which were very helpful from Jim Lynx at CI "MS1 Planning Session" and "Workflow with Git, Gitpod and Github": 
+- ### The slack community for peer support, encouragement, and tutorial you tube videos which were very helpful from Jim Lynx at CI "MS1 Planning Session" and "Workflow with Git, Gitpod and Github": 
 
 - [YouTube Video MS1 Planning](https://youtu.be/sH0m9N875SU)
 - [YouTube Video Workflow with Git, Gitpod and Github](https://youtu.be/6B0bHDDz1EM)
 - [YouTube Video on Contact Form Submissions to Email Address](https://youtu.be/r4RQ38EoLds)
 
-- ### Also to Anna Greaves at CI for quick reference guides on the responsive grid: 
+- ### Also, to Anna Greaves at CI for quick reference guides on the responsive grid: 
 - [Bootstrap-grid-demo](https://ajgreaves.github.io/bootstrap-grid-demo/responsive.html)
 ---
