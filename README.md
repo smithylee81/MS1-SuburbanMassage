@@ -6,7 +6,7 @@
 treatment. The website is designed to be responsive and accessible on a wide range of devices, making it easy for everyone to access 
 whether they're on the go or sitting at a desktop.
 
-<h2 align="center"><img src="https://res.cloudinary.com/dodawjlab/image/upload/v1612553268/amiresponsivepic_yxik0s.png"></h2>
+<h2 align="center"><img src="assets/images/AmIResponsivePic2.png"></h2>
 
 
 ## User Experience (UX)
@@ -129,19 +129,25 @@ whether they're on the go or sitting at a desktop.
 
         1. Testing the navigation bar to ensure this takes the user to the different areas on the page:
     
-    - #### Home Page/Dropdown Menu: 
-    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    - #### Home Page, it was noted that this took the user to the 'Suburban Massage' title however the 'about us' and other info in this section was not visible requiring the user to scroll down slightly to find the info (see Known/Solved Bugs for further info on this):
+    ![Home Page Test](assets/images/NavBarHomeAboutSection.png "Home Page Test")
+    - #### Dropdown Menu: 
+    ![Dropdown/Hover Menu Test](assets/images/HomePageHover-Dropdown.png "Dropdown/Hover Menu Test")
     - #### Treatments Section:
     ![Home Page Dropdown Treatment Section](assets/images/NavigationBarTreatmentsSection.png "Treatment Section")
+    - #### Testimonials Section: 
+    ![Testimonials Section](assets/images/NavigationBarTestimonialsSection.png "Testimonials Section")
     - #### Contact Us Section: 
-    ![Home Page Dropdown Contact Us Section](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown") 
-    - #### Social Media Links: 
+    ![Home Page Dropdown Contact Us Section](assets/images/NavigationBarContactUsSection.png "Contact Us Section") 
+    - #### Contact Us, form completion - mandatory details:
+    ![Contact Us Form Completion Section](assets/images/ContactUsBlankWarningMessage.png "Contact Us Form Completion Section") 
+    - #### Social Media Links, all icon links tested and open in a new tab: 
     Facebook
-    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    ![Facebook new tab test](assets/images/SociaMediaNewPageFacebook.png "Home Page Dropdown")
     Instagram 
-    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    ![Instagram new tab test](assets/images/SocialMediaNewPageInstagram.png "Home Page Dropdown")
     Twitter
-    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    ![Twitter new tab Test](assets/images/SocialMediaNewPageTwitter.png "Home Page Dropdown")
 
 - ### Testing Site Responsiveness
     - #### 
@@ -184,6 +190,7 @@ whether they're on the go or sitting at a desktop.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 3.
+
 
 
 ---
