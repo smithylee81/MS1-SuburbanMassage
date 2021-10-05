@@ -120,7 +120,7 @@ whether they're on the go or sitting at a desktop.
 
 - ### Frequent User Goals
     - #### As a frequent visitor, I want to be able to acess any new information and send another enquiry about booking another massage.
-        1.The user would already be comfortable with the website layout and can easily navigate the page to get what they need, whether that be information or to send an enquiry on booking another massage. 
+        1. The user would already be comfortable with the website layout and can easily navigate the page to get what they need, whether that be information or to send an enquiry on booking another massage. 
 
 ## Further Testing 
 
@@ -171,6 +171,9 @@ whether they're on the go or sitting at a desktop.
 
 
 ### Known/Solved Bugs
+- #### Footer icons displayed on 2 rows on smaller screen sizes, adding a media query resolved this issue as per CSS media query entry:
+![Media Query CSS](assets/images/MediaQuery.png "Media Query CSS")
+
 - #### Upon selecting the home page link this takes the user to the 'Suburban Massage' heading below the main page picture (as demonstrated above in the further testing section)however the user has to scroll down a little to see the 'About Us' detail, the initial HTML showed that the 'id' tag "home" was attached to the opening page. To correct this an 'id' was added to the H3 heading 'Suburban Massage' as id="AboutUs" and the 'a class="nav-link" href changed to href"#AboutUs".
 - #### Initial HTML   
 ![Initial Home Page HTML](assets/images/HomePageNavLinkIssue.png "Initial HTML")
