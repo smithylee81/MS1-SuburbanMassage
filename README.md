@@ -139,7 +139,7 @@ whether they're on the go or sitting at a desktop.
     ![Testimonials Section](assets/images/NavigationBarTestimonialsSection.png "Testimonials Section")
     - #### Contact Us Section: 
     ![Home Page Dropdown Contact Us Section](assets/images/NavigationBarContactUsSection.png "Contact Us Section") 
-    - #### Contact Us, form completion - mandatory details:
+    - #### Contact Us, form completion - mandatory details, should the user not enter their email adrress upon clicking the 'Send my Enquiry' button a warning message appears:
     ![Contact Us Form Completion Section](assets/images/ContactUsBlankWarningMessage.png "Contact Us Form Completion Section") 
     - #### Social Media Links, all icon links tested and open in a new tab: 
     Facebook
@@ -152,10 +152,20 @@ whether they're on the go or sitting at a desktop.
 - ### Testing Site Responsiveness
     - #### 
 
-- ### Known Bugs
-    - #### On larger desktop screens the footer icons appear slightly of center to the left 
-    - #### Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears.
-    - #### After completing the fields in the Contact Us section and clicking the 'Send my Enquiry' button the page changes to a differeng page with an error message (screen shot taken)   
+- ### Known/Solved Bugs
+    - #### Upon selecting the home page link this takes the user to the 'Suburban Massage' heading below the main page picture (as demonstrated above in the further testing section)however the user has to scroll down a little to see the 'About Us' detail, the initial HTML showed that the 'id' tag "home" was attached to the opening page :
+        Initial HTML: 
+     ![Initial Home Page HTML](assets/images/HomePageNavLinkIssue.png "Initial HTML")
+        Updated HTML: 
+     ![Updated Home Page HTML]( "Updated HTML")
+
+
+        User view following HTML changes: 
+
+     ![Corrected Home Page View]( "Corrected Home Page Test View")
+
+    
+    - #### After completing the fields in the 'Contact Us' section and clicking the 'Send My Enquiry' button the page changes to a differeng page with an error message (screen shot taken)   
 
 ---
 
