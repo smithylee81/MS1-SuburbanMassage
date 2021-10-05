@@ -129,16 +129,26 @@ whether they're on the go or sitting at a desktop.
 
         1. Testing the navigation bar to ensure this takes the user to the different areas on the page:
     
-    - #### Home Page/Dropdown Menu: ![Home Page Dropdown Menu Test](/workspace/MS1-SuburbanMassage/assets/images/Home Page Hover - Dropdown.png)
-    - #### Treatments Section: - [Results] ()
-    - #### Contact Us Section: Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears  
-    - #### Social Media Links: Facebook - [Results] () ; Instagram - [Results] (); Twitter - [Results] ()
+    - #### Home Page/Dropdown Menu: 
+    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    - #### Treatments Section:
+    ![Home Page Dropdown Treatment Section](assets/images/NavigationBarTreatmentsSection.png "Treatment Section")
+    - #### Contact Us Section: 
+    ![Home Page Dropdown Contact Us Section](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown") 
+    - #### Social Media Links: 
+    Facebook
+    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    Instagram 
+    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
+    Twitter
+    ![Home Page Dropdown Menu Test](assets/images/HomePageHover-Dropdown.png "Home Page Dropdown")
 
 - ### Testing Site Responsiveness
     - #### 
 
 - ### Known Bugs
     - #### On larger desktop screens the footer icons appear slightly of center to the left 
+    - #### Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears.
     - #### After completing the fields in the Contact Us section and clicking the 'Send my Enquiry' button the page changes to a differeng page with an error message (screen shot taken)   
 
 ---
