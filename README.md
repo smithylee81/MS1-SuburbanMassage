@@ -125,8 +125,9 @@ whether they're on the go or sitting at a desktop.
 - ### Manual Testing of each section
     - #### Home Page/Navigation Bar: All page links were tested to ensure they take the user to the desired area on the page, the dropdown menu was also tested on smaller devices to ensure the user still had these options on their mobile/smaller device. 
 
-        1. Page links to the different areas on the page:
-    - #### ! [Home Page Dropdown Menu Test] [Results](assets/images/Home Page Hover - Dropdown.png)
+        1. Testing the navigation bar to ensure this takes the user to the different areas on the page:
+    
+    ![Home Page Dropdown Menu Test](/workspace/MS1-SuburbanMassage/assets/images/Home Page Hover - Dropdown.png)
     - #### Treatments Section: - [Results] ()
     - #### Contact Us Section: Should the User not enter their email adrress, upon clicking the 'Send my Enquiry' button a warning message appears  
     - #### Social Media Links: Facebook - [Results] () ; Instagram - [Results] (); Twitter - [Results] ()
@@ -171,7 +172,6 @@ whether they're on the go or sitting at a desktop.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 3.
-
 
 
 ---
