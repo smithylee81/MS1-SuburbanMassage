@@ -119,7 +119,7 @@ whether they're on the go or sitting at a desktop.
         3. The user can navigate to the footer to select the social media icons if they wish to view the service on these platforms and can also opt to send an enquiry using the contact form.
 
 - ### Frequent User Goals
-    - #### As a frequent visitor, 
+    - #### As a frequent visitor, I want to be able to acess any new information and send another enquiry about booking another massage.
         1.The user would already be comfortable with the website layout and can easily navigate the page to get what they need, whether that be information or to send an enquiry on booking another massage. 
 
 ## Further Testing 
@@ -139,7 +139,7 @@ whether they're on the go or sitting at a desktop.
     ![Testimonials Section](assets/images/NavigationBarTestimonialsSection.png "Testimonials Section")
     - #### Contact Us Section: 
     ![Home Page Dropdown Contact Us Section](assets/images/NavigationBarContactUsSection.png "Contact Us Section") 
-    - #### Contact Us, form completion - mandatory details, should the user not enter their email adrress upon clicking the 'Send my Enquiry' button a warning message appears:
+    - #### Contact Us, form completion - mandatory details, should the user not enter their email address upon clicking the 'Send my Enquiry' button a warning message appears:
     ![Contact Us Form Completion Section](assets/images/ContactUsBlankWarningMessage.png "Contact Us Form Completion Section") 
     - #### Social Media Links, all icon links tested and open in a new tab: 
     Facebook
@@ -149,8 +149,26 @@ whether they're on the go or sitting at a desktop.
     Twitter
     ![Twitter new tab Test](assets/images/SocialMediaNewPageTwitter.png "Home Page Dropdown")
 
+
 ### Testing Site Responsiveness
-- ####
+- #### Testing responsiveness was carried out using Dev.Tools on a variety of screen sizes as demonstrated below.
+    - ##### Moto G4
+    ![Moto G4](assets/images/MotoG4.png "Moto G4")
+    - ##### Pixel 2
+    ![Pixel 2](assets/images/Pixel2.png "Pixel 2")
+    - ##### iPhone 5/SE
+    ![iPhone 5/SE](assets/images/iPhone5:SE.png "iPhone 5/SE")
+    - ##### iPhone 6/7/8
+    ![iPhone 6/7/8](assets/images/iPhone6:7:8.png "iPhone 6/7/8")
+    - ##### iPhone 6/7/8 Plus
+    ![iPhone 6/7/8 Plus](assets/images/iPhone6:7:8Plus.png "iPhone 6/7/8 Plus")
+    - ##### iPad
+    ![iPad](assets/images/iPad.png "iPad")
+    - ##### Surface Duo
+    ![Surface Duo](assets/images/SurfaceDuo.png "Surface Duo")
+    - ##### Nest Hub Max
+    ![Nest Hub Max](assets/images/NestHubMax.png "Nest Hub Max")
+
 
 ### Known/Solved Bugs
 - #### Upon selecting the home page link this takes the user to the 'Suburban Massage' heading below the main page picture (as demonstrated above in the further testing section)however the user has to scroll down a little to see the 'About Us' detail, the initial HTML showed that the 'id' tag "home" was attached to the opening page. To correct this an 'id' was added to the H3 heading 'Suburban Massage' as id="AboutUs" and the 'a class="nav-link" href changed to href"#AboutUs".
