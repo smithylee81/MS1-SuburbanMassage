@@ -108,19 +108,19 @@ whether they're on the go or sitting at a desktop.
         1. Upon entering the site, users are greated with an easily readable and clean title and navigation bar to allow access to the page of their choice. Below this there is an image of someone receiving a massage so the purpose of the site is clear.
         2. The user has two options, hover over and click the page links to each section or scroll down, both of which will lead them to the same areas. The hover effect works well assisting the user in seeing which section they are selecting.
         3. As a first time visitor, the user can select the Testimonials option and read feedback from customers/clients. 
-        4. On the Contact Us page the user can complete the enquiry form and subit this using the clearly identifed 'Send my Enquiry' button, the user receives a confirmation via a new page stating 'Thanks!' with a link to return to the original site. 
+        4. On the Contact Us page the user can complete the enquiry form and submit this using the clearly identifed 'Send my Enquiry' button, the user receives a confirmation via a new page stating 'Thanks!' with a link to return to the original site. 
         5. At the bottom of the page, the footer, the user has options to select Facebook, Instagram and Twitter to find out more about the massage service and these open in a new tab for ease of use and navigating in their browser.
 
 - ### Returning Visitor Goals
     
     - #### As a returning visitor, I want to check if there are any new treatments available, see if there are any special offers and be able to send an enquiry with confidence.
         1. Upon re-entering the site the user has familiarity given the sites consistency and it's ease of use helps them navigate to the desired sections
-        2. The user can 
-
+        2. The user can assess whether anything has changed since their last viewing of the site and check if any treatments have changed, been added and/or if any prices have changed
+        3. The user can navigate to the footer to select the social media icons if they wish to view the service on these platforms and can also opt to send an enquiry using the contact form.
 
 - ### Frequent User Goals
     - #### As a frequent visitor, 
-        1. 
+        1.The user would already be comfortable with the website layout and can easily navigate the page to get what they need, whether that be information or to send an enquiry on booking another massage. 
 
 ## Further Testing 
 
