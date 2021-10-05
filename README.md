@@ -149,24 +149,37 @@ whether they're on the go or sitting at a desktop.
     Twitter
     ![Twitter new tab Test](assets/images/SocialMediaNewPageTwitter.png "Home Page Dropdown")
 
-- ### Testing Site Responsiveness
-    - #### 
+### Testing Site Responsiveness
+- ####
 
-- ### Known/Solved Bugs
-    - #### Upon selecting the home page link this takes the user to the 'Suburban Massage' heading below the main page picture (as demonstrated above in the further testing section)however the user has to scroll down a little to see the 'About Us' detail, the initial HTML showed that the 'id' tag "home" was attached to the opening page :
-        Initial HTML: 
-     ![Initial Home Page HTML](assets/images/HomePageNavLinkIssue.png "Initial HTML")
-        Updated HTML: 
-     ![Updated Home Page HTML]( "Updated HTML")
+### Known/Solved Bugs
+- #### Upon selecting the home page link this takes the user to the 'Suburban Massage' heading below the main page picture (as demonstrated above in the further testing section)however the user has to scroll down a little to see the 'About Us' detail, the initial HTML showed that the 'id' tag "home" was attached to the opening page. To correct this an 'id' was added to the H3 heading 'Suburban Massage' as id="AboutUs" and the 'a class="nav-link" href changed to href"#AboutUs".
+- #### Initial HTML   
+![Initial Home Page HTML](assets/images/HomePageNavLinkIssue.png "Initial HTML")
 
+- #### Updated HTML
+![Updated Home Page HTML](assets/images/UpdatedHomePageHTML.png "Updated HTML")
 
-        User view following HTML changes: 
+- #### User view following HTML changes
+![Corrected Home Page View](assets/images/CorrectedHomePageView.png "Corrected Home Page Test View")
 
-     ![Corrected Home Page View]( "Corrected Home Page Test View")
+- #### After completing the fields in the 'Contact Us' section and clicking the 'Send My Enquiry' button the page changes to a different page with an error message stating 'Error response'. To correct this, following review of YouTube Video referenced below in 'Acknowledgements', a Form Action was added with the relevant email address and this was tested to activate this and provide a confirmation to the user that their form had been sent. 
+![Contact Us Form Error](assets/images/ContactUsError.png "Contact us form error")
 
-    
-    - #### After completing the fields in the 'Contact Us' section and clicking the 'Send My Enquiry' button the page changes to a differeng page with an error message (screen shot taken)   
+- #### Form Activation Message  
+![Form Activation Message](assets/images/ContactUsFormActivationMessage.png "Form Activation Message")
 
+- #### Activation Email
+![Activation Email](assets/images/ContactUsActivateFormSubmit.png "Activation Email")
+
+- #### Email Activated
+![Email Form Activated](assets/images/ContactUsFormActivated.png "Email Form Activated")
+
+- #### Form Submission Suscess
+![Form Submission Suscess](assets/images/ContactUsFormSubmissionThanks!.png "Form Submission Suscess")
+
+- #### Email Receipt of Enquiry
+![Email Receipt of Enquiry](assets/images/ContactUsNewEnquiryReceivedEmail.PNG "Email Receipt of Enquiry")
 ---
 
 ## Project Barriers & Solutions
